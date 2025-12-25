@@ -23,11 +23,13 @@ A collection of visual documentation including photos of the physical robots, be
 <p align="center">
   <img src="some pictures and videos/robot.jpg"  alt="Hero Robot" />
 </p>
+
 <p align="center">
   <img src="some pictures and videos/MVP.jpg"  alt="MVP" />
 </p>
+
 <p align="center">
-  <img src="some pictures and videos/work"  alt="Hero Robot" />
+  <img src="some pictures and videos/work.jpg"  alt="work" />
 </p>
 
 
